@@ -51,5 +51,7 @@ Consumer Segment brings the most revenue, but profit ratio is lower compared to 
 ## 📷 Sample Visualizations
 
 Monthly Sales Analysis
+
 Profit by Category
+
 Sales-to-Profit Ratio by Customer Segment
