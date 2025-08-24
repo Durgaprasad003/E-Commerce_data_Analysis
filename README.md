@@ -12,7 +12,8 @@ Columns: 21 (Order Date, Ship Date, Sales, Profit, Category, Sub-Category, Regio
 
 
 ## 🛠️ Tools & Libraries
-Python (Pandas, Numpy) → Data cleaning, manipulation, and aggregation.
+Python (Pandas, Numpy) → Data cleaning, manipulation, and aggregation.\n
+
 Plotly Express & Graph Objects → Interactive charts and visualizations.
 Jupyter Notebook → Development and reporting.
 
