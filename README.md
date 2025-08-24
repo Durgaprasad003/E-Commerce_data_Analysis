@@ -12,15 +12,15 @@ Columns: 21 (Order Date, Ship Date, Sales, Profit, Category, Sub-Category, Regio
 
 
 ## 🛠️ Tools & Libraries
-Python (Pandas, Numpy) → Data cleaning, manipulation, and aggregation
-Plotly Express & Graph Objects → Interactive charts and visualizations
-Jupyter Notebook → Development and reporting
+Python (Pandas, Numpy) → Data cleaning, manipulation, and aggregation.
+Plotly Express & Graph Objects → Interactive charts and visualizations.
+Jupyter Notebook → Development and reporting.
 
 
 ## 📊 Key Steps in Analysis
 
-Data Cleaning & Preparation
-Converted Order Date and Ship Date to datetime format
+Data Cleaning & Preparation.
+Converted Order Date and Ship Date to datetime format.
 Created new columns:
 
 Order Month
